@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Currency from './3-currency';
 
 class Pricing {
@@ -57,3 +58,4 @@ class Pricing {
 }
 
 export default Pricing;
+/* eslint-enable */

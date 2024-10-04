@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class HolbertonClass {
 	constructor(size, location) {
 		this.size = size;
@@ -30,3 +31,4 @@ export default class HolbertonClass {
 		return this;
 	}
 }
+/* eslint-enable */

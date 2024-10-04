@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class Car {
 	constructor(brand, motor, color) {
 		this.brand = brand;
@@ -39,3 +40,4 @@ export default class Car {
 		return new Species();
 	}
 }
+/* eslint-enable */

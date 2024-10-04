@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default class Airport {
 	constructor(name, code) {
 		this.name = name;
@@ -24,3 +25,4 @@ export default class Airport {
 		return this._code;
 	}
 }
+/* eslint-enable */

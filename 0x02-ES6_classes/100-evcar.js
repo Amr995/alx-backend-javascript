@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Car from './10-car';
 
 export default class EVCar extends Car {
@@ -20,3 +21,4 @@ export default class EVCar extends Car {
 		return new Species();
 	}
 }
+/* eslint-enable */

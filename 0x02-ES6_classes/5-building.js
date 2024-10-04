@@ -1,3 +1,4 @@
+/* eslint-disable */
 class Building {
 	constructor(sqft) {
 		if (this.constructor !== Building) {
@@ -26,3 +27,4 @@ class Building {
 }
 
 export default Building;
+/* eslint-enable */

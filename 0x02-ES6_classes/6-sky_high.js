@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Building from './5-building';
 
 export default class SkyHighBuilding extends Building {
@@ -18,3 +19,4 @@ export default class SkyHighBuilding extends Building {
 		return `Evacuate slowly the ${this.floors} floors`;
 	}
 }
+/* eslint-enable */

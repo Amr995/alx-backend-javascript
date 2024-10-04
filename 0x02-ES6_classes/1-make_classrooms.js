@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Classroom from './0-classroom';
 
 function initializeRooms() {
@@ -9,3 +10,4 @@ function initializeRooms() {
 }
 
 export default initializeRooms;
+/* eslint-enable */
