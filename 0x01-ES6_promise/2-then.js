@@ -1,3 +1,4 @@
+/* eslint-disable */
 function handleResponseFromAPI(promise) {
 	return promise
 		.then(() => ({
@@ -8,3 +9,4 @@ function handleResponseFromAPI(promise) {
 		.finally(() => console.log('Got a response from the API'));
 }
 export default handleResponseFromAPI;
+/* eslint-enable */

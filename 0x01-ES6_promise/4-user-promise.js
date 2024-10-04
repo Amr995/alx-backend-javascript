@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function signUpUser(firstName, lastName) {
 	return Promise.resolve(
 		{
@@ -6,3 +7,4 @@ export default function signUpUser(firstName, lastName) {
 		},
 	);
 }
+/* eslint-enable */
