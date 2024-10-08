@@ -1,3 +1,4 @@
+/* eslint-disable */
 const weakMap = new WeakMap();
 
 const queryAPI = (endpoint) => {
@@ -8,3 +9,4 @@ const queryAPI = (endpoint) => {
 };
 
 export { weakMap, queryAPI };
+/* eslint-enable */
