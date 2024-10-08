@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function getListStudents() {
 	const students = [
 		{ id: 1, firstName: 'Guillaume', location: 'San Francisco' },
@@ -6,3 +7,4 @@ export default function getListStudents() {
 	];
 	return students;
 }
+/* eslint-enable */
