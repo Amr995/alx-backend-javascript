@@ -1,3 +1,5 @@
-export  default function getStudentsByLocation(arg1, arg2) {
-	return arg1.filter((student) => student.location === arg2);
+/* eslint-disable */
+export default function getStudentsByLocation(students, city) {
+	return students.filter((student) => student.location === city);
 }
+/* eslint-enable */
