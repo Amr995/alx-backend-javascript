@@ -1,21 +1,19 @@
-#!/usr/bin/node
-getListStudents() => {
-	const Arr = [
+export default function getListStudents() => {
+	return [
 		{
-			const firstName: "Guillaume",
-			const id: 1,
-			const location: "San Francisco":
+			id: 1,
+			firstName: "Guillaume",
+			location: "San Francisco"
 		},
 		{
-			const firstName: "Guillaume",
-			const id: 1,
-			const location: "San Francisco":
+			id: 2,
+			firstName: "James",
+			location: "Columbia"
 		},
 		{
-			const firstName: "Guillaume",
-			const id: 1,
-			const location: "San Francisco":
+			id: 3,
+			firstName: "Serena",
+			location: "San Francisco"
 		}
-	]
-	return ...Arr;
+	];
 }
