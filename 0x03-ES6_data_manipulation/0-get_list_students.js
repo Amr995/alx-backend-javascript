@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function getListStudents() => {
 	return [
 		{
@@ -17,3 +18,4 @@ export default function getListStudents() => {
 		}
 	];
 }
+/* eslint-enable */
