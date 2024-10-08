@@ -1,4 +1,8 @@
-/* eslint-disable */
+/**
+ * Retrieves a list of students.
+ * @author Amr Sal <https://github.com/Amr995>
+ * @returns array of objects
+ */
 export default function getListStudents() => {
 	return [
 		{
